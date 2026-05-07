@@ -1381,7 +1381,7 @@ export default function App() {
                      <Car size={32} />
                    </div>
                    <h3 className="text-2xl font-black text-slate-900">For the Guards</h3>
-                   <p className="text-slate-400 font-medium leading-relaxed"> No more messy notebooks. Just type the number plate and personal info, tap one button to authorize, and you are done. It’s that fast. </p>
+                   <p className="text-slate-400 font-medium leading-relaxed"> No more messy notebooks. Just type the number plate and personal, tap one button to authorize, and you are done. It’s that fast. </p>
                 </div>
                 <div className="space-y-6">
                    <div className="w-16 h-16 bg-white rounded-3xl shadow-lg border border-slate-50 flex items-center justify-center text-emerald-600">
