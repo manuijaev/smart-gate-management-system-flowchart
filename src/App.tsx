@@ -170,7 +170,7 @@ const SystemFlowchart = ({ flowRef }: { flowRef: React.RefObject<HTMLDivElement>
       <div className="relative p-8 bg-slate-50 rounded-[3rem] border border-slate-100">
         <div className="w-12 h-12 bg-slate-900 text-white rounded-2xl flex items-center justify-center font-black mb-6 shadow-lg">2</div>
         <h4 className="text-xl font-black text-slate-900 mb-2">Zero-Stop Flow</h4>
-        <p className="text-sm text-slate-500 leading-relaxed">Residents enjoy fast-track lanes. Visitors simply show their phone. No penalties for lost tokens as the system is database-first.</p>
+        <p className="text-sm text-slate-500 leading-relaxed">Residents enjoy fast-track lanes. Visitors simply dictate their token code or  guards scans the number plate/id number. No penalties for lost tokens as the system is database-first.</p>
         <div className="hidden md:block absolute -right-12 top-1/2 -translate-y-1/2 text-slate-200">
           <ArrowRight size={32} />
         </div>
@@ -1347,7 +1347,7 @@ export default function App() {
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-indigo-600 to-indigo-400 italic">Zero congestion.</span>
           </h1>
           <p className="text-slate-400 text-xl font-medium leading-relaxed max-w-lg">
-            Eliminate gate queues with AI-powered plate recognition. GateFlow optimizes estate traffic for a frictionless, congestion-free experience.
+            Eliminate gate queues with Gateflow system. GateFlow optimizes estate traffic for a frictionless, congestion-free experience.
           </p>
                 </div>
 
